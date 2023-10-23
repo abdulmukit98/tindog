@@ -137,19 +137,6 @@ p {
 }
 
 
-@media (max-width: 1028px) {
-
-  #title {
-      text-align: center;
-  }
-
-  .title-image {
-    position: static;
-    width: 60%;
-    transform: rotate(0);
-  }
-}
-
 
 /* CTA section */
 
@@ -181,4 +168,19 @@ p {
 
 .footer-icon {
   padding: 1%;
+}
+
+
+
+@media (max-width: 1028px) {
+
+  #title {
+      text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    width: 60%;
+    transform: rotate(0);
+  }
 }
